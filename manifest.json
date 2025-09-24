@@ -1,0 +1,30 @@
+{
+  "name": "Kwararru",
+  "short_name": "Kwararru",
+  "description": "Knowledge through Conversation. Kwararru is a next-generation messenger that combines the simplicity of chat and calls with the depth of professional AI personas. Inspired by the Hausa word “kwararru” — meaning “the professionals” or “experts” — Kwararru represents a gathering where wisdom and connection come alive through dialogue.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f0fdf4",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
